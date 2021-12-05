@@ -1,4 +1,0 @@
-aniket password
-kamlesh password1
-animesh password2
-pandas password3

@@ -1,2 +1,0 @@
-candidate1 a
-candidate2 b
